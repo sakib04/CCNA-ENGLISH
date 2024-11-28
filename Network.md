@@ -42,7 +42,16 @@ Now, we can add some features that a router should support, such as security. Yo
 # Switch
 A switch is a network device used to connect multiple devices or computers within a network, and it works to direct data packets to their correct destinations. A switch is a data link layer device, used in LAN (Local Area Network) networks.
 
+# LAN
+LAN (Local Area Network) is a networking system that connects computers and other devices within a small, limited geographic area, such as a home, office, school, or building. A LAN helps users share information, resources like printers, file servers, etc., and access the internet.
 
+# WAN
+WAN (Wide Area Network) is a large regional or international network that connects several LANs (Local Area Networks) or other smaller networks. WAN generally spans a large geographical area, such as a city, country, or even worldwide, and is used for communication between computers, servers, databases, and other network resources.
 
+# Router
+A router is a network device that transfers data between two or more networks. It determines the path of data packets within the network and directs them to their correct destination. Routers typically connect the internet to local networks (LAN) or wide-area networks (WAN).
+
+# Wireless Access Point (WAP)
+A Wireless Access Point (WAP) is a network device that helps wireless devices (such as smartphones, laptops, tablets, etc.) connect to a wired network. It functions as part of a LAN and creates a Wi-Fi network so devices can access the internet or network resources. This was a revolutionary technology that changed the world. Wi-Fi was a huge security vulnerability, but now it has become quite secure. 
 
 
