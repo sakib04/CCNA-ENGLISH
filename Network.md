@@ -39,6 +39,9 @@ Ultimately, although not immediately, people will one day say, "We need to commu
 
 Now, we can add some features that a router should support, such as security. You know, this is a crucial task, but it’s not mandatory. It’s just a boundary. I think a router provides a service called Network Address Translation (NAT), which translates your network’s IP addressing into internet addressing. This is a great feature, and almost 99% of routers support it, but it’s not mandatory. So, what does a router do? It creates a boundary between your network and another network, between your world and the rest of the world.
 
+# Switch
+A switch is a network device used to connect multiple devices or computers within a network, and it works to direct data packets to their correct destinations. A switch is a data link layer device, used in LAN (Local Area Network) networks.
+
 
 
 
